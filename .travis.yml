@@ -4,7 +4,7 @@ node_js:
 before_script:
   - npm install @11ty/eleventy -g
 script: 
-  - npx eleventy
+  - npx eleventy --pathprefix="/mitrika/"
   - touch .nojekyll
 deploy:
   local-dir: _site
