@@ -2,62 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://todo.com/mitrika/posts/firstpost/</loc>
+    <loc>https://todo.com/posts/firstpost/</loc>
     <lastmod>2018-05-01</lastmod>
   </url>
   
   <url>
-    <loc>https://todo.com/mitrika/posts/secondpost/</loc>
+    <loc>https://todo.com/posts/secondpost/</loc>
     <lastmod>2018-07-04</lastmod>
   </url>
   
   <url>
-    <loc>https://todo.com/mitrika/posts/thirdpost/</loc>
+    <loc>https://todo.com/posts/thirdpost/</loc>
     <lastmod>2018-08-24</lastmod>
   </url>
   
   <url>
-    <loc>https://todo.com/mitrika/posts/fourthpost/</loc>
+    <loc>https://todo.com/posts/fourthpost/</loc>
     <lastmod>2018-09-30</lastmod>
   </url>
   
   <url>
-    <loc>https://todo.com/mitrika/</loc>
+    <loc>https://todo.com/</loc>
     <lastmod>2020-06-01</lastmod>
   </url>
   
   <url>
-    <loc>https://todo.com/mitrika/about/</loc>
+    <loc>https://todo.com/about/</loc>
     <lastmod>2020-06-10</lastmod>
   </url>
   
   <url>
-    <loc>https://todo.com/mitrika/posts/</loc>
+    <loc>https://todo.com/posts/</loc>
     <lastmod>2020-06-10</lastmod>
   </url>
   
   <url>
-    <loc>https://todo.com/mitrika/page-list/</loc>
+    <loc>https://todo.com/page-list/</loc>
     <lastmod>2020-06-10</lastmod>
   </url>
   
   <url>
-    <loc>https://todo.com/mitrika/tags/</loc>
+    <loc>https://todo.com/tags/</loc>
     <lastmod>2020-06-10</lastmod>
   </url>
   
   <url>
-    <loc>https://todo.com/mitrika/tags/another-tag/</loc>
+    <loc>https://todo.com/tags/another-tag/</loc>
     <lastmod>2020-06-10</lastmod>
   </url>
   
   <url>
-    <loc>https://todo.com/mitrika/tags/second-tag/</loc>
+    <loc>https://todo.com/tags/second-tag/</loc>
     <lastmod>2020-06-10</lastmod>
   </url>
   
   <url>
-    <loc>https://todo.com/mitrika/tags/number-2/</loc>
+    <loc>https://todo.com/tags/number-2/</loc>
     <lastmod>2020-06-10</lastmod>
   </url>
 </urlset>
