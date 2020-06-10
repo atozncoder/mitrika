@@ -1,0 +1,15 @@
+{
+  "title": "Mamatatamata",
+  "url": "https://TODO.com/",
+  "description": "Blog koji pomaze roditeljima da rade matematiku sa svojom decom.",
+  "feed": {
+    "subtitle": "Pomozite deci da nacue jezik buducnosti. Obezbedite im svetlu buducnost.",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://myurl.com/"
+  },
+  "author": {
+    "name": "Aleksandar Zlatkovic",
+    "email": "aleksandarszlatkovic@gmail.com"
+  }
+}
