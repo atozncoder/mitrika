@@ -1,5 +1,5 @@
 ---
-title: Sabiranje i oduzimanje razlomaka
+title: Sabiranje i oduzimanje razlomaka V2
 description: Ovo je objava na mom blogu o matematici za osnovnu skolu.
 date: 2020-06-01
 tags:
