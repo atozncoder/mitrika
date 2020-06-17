@@ -1,0 +1,19 @@
+MathJax {
+    margin: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+mjx-container mjx-utext {
+    font-family: Roboto;
+    margin: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+mjx-container svg text {
+    font-family: Roboto;
+    margin: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+}
