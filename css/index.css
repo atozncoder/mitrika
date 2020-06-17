@@ -79,8 +79,8 @@ ul li {  }
 
 p {
   line-height: 1.625;
-  margin-block-end: 0.5em;
-  margin-block-start: 0.5em;
+  margin-block-end: 1em;
+  margin-block-start: 1em;
 }
 
 p:last-child {
