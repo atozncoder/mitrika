@@ -15,7 +15,7 @@ layout: layouts/post.njk
 a) {3 \over 7} + {2 \over 7} \qquad b) {2 \over 5} + {1 \over 5}
 \end{equation}
 
-![Sabiranje razlomaka](/img/sabiranje_i_oduzimanje_razlomaka/Objava1Z1.png)
+![Sabiranje razlomaka](/mitrika/img/sabiranje_i_oduzimanje_razlomaka/Objava1Z1.png)
 
 Ocigledno je
 
@@ -45,7 +45,7 @@ a) {1 \over 2} + {1 \over 3} \qquad b) {5 \over 8} + {3 \over 10}
 
 a) U ovom slucaju imamo imenioce 2 i 3. Trazimo najmanji broj koji je deljiv sa 2 i sa 3. Najlakse je pomnoziti brojeve 2 i 3 i dobicemo broj 6. Broj 6 je ocigledno najmanji broj deljiv sa 2 i sa 3.
 
-![Sabiranje razlomaka](/img/sabiranje_i_oduzimanje_razlomaka_razlicit_imenilac/Objava2Z1A@3x.png)
+![Sabiranje razlomaka](/mitrika/img/sabiranje_i_oduzimanje_razlomaka_razlicit_imenilac/Objava2Z1A@3x.png)
 
 Dakle:
 
