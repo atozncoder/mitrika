@@ -5,7 +5,7 @@
 	
 	<link href="https://todo.com/mitrika/feed/feed.xml" rel="self"/>
 	<link href="https://TODO.com/"/>
-	<updated>2018-09-30T00:00:00-00:00</updated>
+	<updated>2020-06-16T00:00:00-00:00</updated>
 	<id>https://myurl.com/</id>
 	<author>
 		<name>Aleksandar Zlatkovic</name>
@@ -13,54 +13,115 @@
 	</author>
 	
 	<entry>
-		<title>This is my first post.</title>
-		<link href="https://todo.com/mitrika/posts/firstpost/"/>
-		<updated>2018-05-01T00:00:00-00:00</updated>
-		<id>https://todo.com/mitrika/posts/firstpost/</id>
-		<content type="html">&lt;p&gt;Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.&lt;/p&gt;
-&lt;p&gt;Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.&lt;/p&gt;
-&lt;h2 id=&quot;section-header&quot;&gt;Section Header &lt;a class=&quot;direct-link&quot; href=&quot;#section-header&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.&lt;/p&gt;
-&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;&lt;span class=&quot;highlight-line&quot;&gt;// this is a command&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;highlight-line&quot;&gt;function myCommand() {&lt;/span&gt;&lt;br&gt;&lt;mark class=&quot;highlight-line highlight-line-active&quot;&gt;	let counter = 0;&lt;/mark&gt;&lt;br&gt;&lt;mark class=&quot;highlight-line highlight-line-active&quot;&gt;	counter++;&lt;/mark&gt;&lt;br&gt;&lt;span class=&quot;highlight-line&quot;&gt;}&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;highlight-line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;highlight-line&quot;&gt;// Test with a line break above this line.&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;highlight-line&quot;&gt;console.log(&#39;Test&#39;);&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+		<title>Sabiranje i oduzimanje razlomaka</title>
+		<link href="https://todo.com/mitrika/posts/sabiranje_i_oduzimanje_razlomaka/"/>
+		<updated>2020-06-01T00:00:00-00:00</updated>
+		<id>https://todo.com/mitrika/posts/sabiranje_i_oduzimanje_razlomaka/</id>
+		<content type="html">&lt;ol&gt;
+&lt;li&gt;Izracunati:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;\begin{equation}&lt;br&gt;
+a) {3 \over 7} + {2 \over 7} \qquad b) {2 \over 5} + {1 \over 5}&lt;br&gt;
+\end{equation}&lt;/p&gt;
+&lt;p&gt;a)&lt;/p&gt;
+&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img src=&quot;https://todo.com/img/sabiranje_i_oduzimanje_razlomaka/Z1A@3x.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Ocigledno je:&lt;/p&gt;
+&lt;p&gt;\begin{equation}&lt;br&gt;
+{3 \over 7} + {2 \over 7} = {3 + 2 \over 7} = {5 \over 7}&lt;br&gt;
+\end{equation}&lt;/p&gt;
+&lt;p&gt;b)&lt;/p&gt;
+&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img src=&quot;https://todo.com/img/sabiranje_i_oduzimanje_razlomaka/Z1B@3x.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;\begin{equation}&lt;br&gt;
+{2 \over 5} + {1\over 5} = {2 + 1 \over 5} = {3 \over 5}&lt;br&gt;
+\end{equation}&lt;/p&gt;
+&lt;h2 id=&quot;zakljucak&quot;&gt;Zakljucak &lt;a class=&quot;direct-link&quot; href=&quot;#zakljucak&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;\begin{equation}&lt;br&gt;
+\color{red}{a \over c} + {b \over c} = {a + b \over c}&lt;br&gt;
+\end{equation}&lt;/p&gt;
+&lt;p&gt;Postavlja se pitanje sta u slucaju razlicitih imenilaca. Ova tema je obradjena u posebnoj objavi koju mozete naci &lt;a href=&quot;https://todo.com/posts/sabiranje_i_oduzimanje_razlomaka_razlicit_imenilac/&quot;&gt;ovde&lt;/a&gt;.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
-		<title>This is my second post.</title>
-		<link href="https://todo.com/mitrika/posts/secondpost/"/>
-		<updated>2018-07-04T00:00:00-00:00</updated>
-		<id>https://todo.com/mitrika/posts/secondpost/</id>
-		<content type="html">&lt;p&gt;Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.&lt;/p&gt;
-&lt;h2 id=&quot;section-header&quot;&gt;Section Header &lt;a class=&quot;direct-link&quot; href=&quot;#section-header&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://todo.com/mitrika/posts/firstpost/&quot;&gt;First post&lt;/a&gt;&lt;br&gt;
-&lt;a href=&quot;https://todo.com/mitrika/posts/thirdpost/&quot;&gt;Third post&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.&lt;/p&gt;
-&lt;p&gt;Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.&lt;/p&gt;
+		<title>Sabiranje i oduzimanje razlomaka</title>
+		<link href="https://todo.com/mitrika/posts/sabiranje_i_oduzimanje_razlomaka_2/"/>
+		<updated>2020-06-01T00:00:00-00:00</updated>
+		<id>https://todo.com/mitrika/posts/sabiranje_i_oduzimanje_razlomaka_2/</id>
+		<content type="html">&lt;ol&gt;
+&lt;li&gt;Izracunati:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;\begin{equation}&lt;br&gt;
+a) {3 \over 7} + {2 \over 7} \qquad b) {2 \over 5} + {1 \over 5}&lt;br&gt;
+\end{equation}&lt;/p&gt;
+&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img src=&quot;https://todo.com/img/sabiranje_i_oduzimanje_razlomaka/Objava1Z1.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Ocigledno je&lt;/p&gt;
+&lt;p&gt;a)&lt;br&gt;
+\begin{equation}&lt;br&gt;
+{3 \over 7} + {2 \over 7} = {3 + 2 \over 7} = {5 \over 7}&lt;br&gt;
+\end{equation}&lt;/p&gt;
+&lt;p&gt;b)&lt;br&gt;
+\begin{equation}&lt;br&gt;
+{2 \over 5} + {1\over 5} = {2 + 1 \over 5} = {3 \over 5}&lt;br&gt;
+\end{equation}&lt;/p&gt;
+&lt;h2 id=&quot;zakljucak&quot;&gt;Zakljucak &lt;a class=&quot;direct-link&quot; href=&quot;#zakljucak&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;\begin{equation}&lt;br&gt;
+\color{red}{a \over c} + {b \over c} = {a + b \over c}&lt;br&gt;
+\end{equation}&lt;/p&gt;
+&lt;p&gt;Postavlja se pitanje sta u slucaju razlicitih imenilaca. Ova tema je obradjena u posebnoj objavi koju mozete naci &lt;a href=&quot;https://todo.com/posts/sabiranje_i_oduzimanje_razlomaka_razlicit_imenilac/&quot;&gt;ovde&lt;/a&gt;.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
-		<title>This is my third post.</title>
-		<link href="https://todo.com/mitrika/posts/thirdpost/"/>
-		<updated>2018-08-24T00:00:00-00:00</updated>
-		<id>https://todo.com/mitrika/posts/thirdpost/</id>
-		<content type="html">&lt;p&gt;Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.&lt;/p&gt;
-&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;highlight-line&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;// this is a command&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;highlight-line&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;myCommand&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;ins class=&quot;highlight-line highlight-line-add&quot;&gt;	&lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; counter &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/ins&gt;&lt;br&gt;&lt;span class=&quot;highlight-line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;del class=&quot;highlight-line highlight-line-remove&quot;&gt;	counter&lt;span class=&quot;token operator&quot;&gt;++&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/del&gt;&lt;br&gt;&lt;span class=&quot;highlight-line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;highlight-line&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;highlight-line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;highlight-line&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;// Test with a line break above this line.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;highlight-line&quot;&gt;console&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&#39;Test&#39;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.&lt;/p&gt;
-&lt;h2 id=&quot;section-header&quot;&gt;Section Header &lt;a class=&quot;direct-link&quot; href=&quot;#section-header&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.&lt;/p&gt;
+		<title>Sabiranje i oduzimanje razlomaka</title>
+		<link href="https://todo.com/mitrika/posts/sabiranje_i_oduzimanje_razlomaka_3/"/>
+		<updated>2020-06-01T00:00:00-00:00</updated>
+		<id>https://todo.com/mitrika/posts/sabiranje_i_oduzimanje_razlomaka_3/</id>
+		<content type="html">&lt;ol&gt;
+&lt;li&gt;Izracunati:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;\begin{equation}&lt;br&gt;
+a) {3 \over 7} + {2 \over 7} \qquad b) {2 \over 5} + {1 \over 5}&lt;br&gt;
+\end{equation}&lt;/p&gt;
+&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img src=&quot;https://todo.com/img/sabiranje_i_oduzimanje_razlomaka/Objava1Z1.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Ocigledno je&lt;/p&gt;
+&lt;p&gt;\begin{equation}&lt;br&gt;
+a) {3 \over 7} + {2 \over 7} = {3 + 2 \over 7} = {5 \over 7} \qquad b) {2 \over 5} + {1\over 5} = {2 + 1 \over 5} = {3 \over 5}&lt;br&gt;
+\end{equation}&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Zakljucak&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;\begin{equation}&lt;br&gt;
+\color{red}{a \over c} + {b \over c} = {a + b \over c}&lt;br&gt;
+\end{equation}&lt;/p&gt;
+&lt;p&gt;Postavlja se pitanje sta u slucaju razlicitih imenilaca. Ova tema je obradjena u posebnoj objavi koju mozete naci &lt;a href=&quot;https://todo.com/posts/sabiranje_i_oduzimanje_razlomaka_razlicit_imenilac/&quot;&gt;ovde&lt;/a&gt;.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
-		<title>This is my fourth post.</title>
-		<link href="https://todo.com/mitrika/posts/fourthpost/"/>
-		<updated>2018-09-30T00:00:00-00:00</updated>
-		<id>https://todo.com/mitrika/posts/fourthpost/</id>
-		<content type="html">&lt;p&gt;Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.&lt;/p&gt;
-&lt;p&gt;Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.&lt;/p&gt;
-&lt;h2 id=&quot;section-header&quot;&gt;Section Header &lt;a class=&quot;direct-link&quot; href=&quot;#section-header&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.&lt;/p&gt;
+		<title>Sabiranje i oduzimanje razlomaka sa razlicitim imeniocima</title>
+		<link href="https://todo.com/mitrika/posts/sabiranje_i_oduzimanje_razlomaka_razlicit_imenilac/"/>
+		<updated>2020-06-16T00:00:00-00:00</updated>
+		<id>https://todo.com/mitrika/posts/sabiranje_i_oduzimanje_razlomaka_razlicit_imenilac/</id>
+		<content type="html">&lt;p&gt;Ako niste vec procitali osnovno objasnjenje o sabiranju i oduzimanju razlomaka molim vas procitajte. Objavu mozete naci u &lt;a href=&quot;https://todo.com/posts/sabiranje_i_oduzimanje_razlomaka/&quot;&gt;ovde&lt;/a&gt;.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Izracunati:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;\begin{equation}&lt;br&gt;
+a) {1 \over 2} + {1 \over 3} \qquad b) {5 \over 8} + {3 \over 10}&lt;br&gt;
+\end{equation}&lt;/p&gt;
+&lt;p&gt;Znamo da se razlomak moze predstaviti na beskonacno mnogo nacina. To se moze postici mnozenjem ili deljenjem brojioca i imenioca istim brojem. Ovo se naziva prosirivanjem ili skracivanjem razlomaka. Vise detalja o ovoj temi mozete naci u posebnoj objavi &lt;a href=&quot;https://todo.com/mitrika/posts/sabiranje_i_oduzimanje_razlomaka_razlicit_imenilac/TBD&quot;&gt;ovde&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;a)&lt;/p&gt;
+&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img src=&quot;https://todo.com/img/sabiranje_i_oduzimanje_razlomaka_razlicit_imenilac/Objava2Z1A@3x.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Dakle:&lt;/p&gt;
+&lt;p&gt;\begin{equation}&lt;br&gt;
+{1 \over 2} + {1 \over 3} = {3 \over 6} + {2 \over 6} = {5 \over 6}&lt;br&gt;
+\end{equation}&lt;/p&gt;
+&lt;p&gt;b)&lt;/p&gt;
+&lt;p&gt;Pitamo se kako da te razlomke prosirimo do razlomaka sa jednakim imeniocima.&lt;br&gt;
+Probamo sa brojevima koji je deljivi sa 8 i sa 10.&lt;br&gt;
+To su brojevi: 40, 80, 120, 160, ...&lt;br&gt;
+Najpovoljnije je izabrati najmanji. Taj broj se zove najmanji zajednicki sadrzalac &lt;strong&gt;NZS&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;\begin{equation}&lt;br&gt;
+{5 \over 8} + {3 \over 10} = {5 * 5 \over 8 * 5} + {3 * 4 \over 10 * 4} = {25 \over 40} + {12 \over 40} = {37 \over 40}&lt;br&gt;
+\end{equation}&lt;/p&gt;
 </content>
 	</entry>
 </feed>

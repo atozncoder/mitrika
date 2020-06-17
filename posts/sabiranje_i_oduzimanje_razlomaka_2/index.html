@@ -4,16 +4,17 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="This is my second post.">
+    <meta property="og:title" content="Sabiranje i oduzimanje razlomaka">
     <meta property="og:site_name" content="Radire matematiku sa svojom decom">
-    <title>This is my second post.</title>
-    <meta name="Description" content="This is a post on My Blog about leveraging agile frameworks.">
+    <title>Sabiranje i oduzimanje razlomaka</title>
+    <meta name="Description" content="Ovo je objava na mom blogu o matematici za osnovnu skolu.">
     <meta name="author" content="Aleksandar Zlatkovic">
 
     <link href="https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400;0,500;0,700;1,400&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Merriweather+Sans&display=swap" rel="stylesheet">  
 
     <link rel="stylesheet" href="/mitrika/css/index.css">
+    <link rel="stylesheet" href="/mitrika/css/matjax.css">
     <link rel="stylesheet" href="/mitrika/css/prism-base16-monokai.dark.css">
     <link rel="alternate" href="/mitrika/feed/feed.xml" type="application/atom+xml" title="Mamatatamata">
 
@@ -44,6 +45,19 @@
     }
     </script>
 
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script>
+      MathJax = {
+        tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]},
+        chtml: {
+          scale: 1.2,
+          fontURL: '/fonts/roboto.tds'
+        }
+      };
+
+    </script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+
   </head>
   <body class="center">
     <header>
@@ -55,14 +69,29 @@
     </header>
 
     <main class="tmpl-post">
-      <h1>This is my second post.</h1>
+      <h1>Sabiranje i oduzimanje razlomaka</h1>
 
-<p>Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>
-<h2 id="section-header">Section Header <a class="direct-link" href="#section-header">#</a></h2>
-<p><a href="/mitrika/posts/firstpost/">First post</a><br>
-<a href="/mitrika/posts/thirdpost/">Third post</a></p>
-<p>Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.</p>
-<p>Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.</p>
+<ol>
+<li>Izracunati:</li>
+</ol>
+<p>\begin{equation}<br>
+a) {3 \over 7} + {2 \over 7} \qquad b) {2 \over 5} + {1 \over 5}<br>
+\end{equation}</p>
+<p style="text-align:center;"><img src="/img/sabiranje_i_oduzimanje_razlomaka/Objava1Z1.png"/></p>
+<p>Ocigledno je</p>
+<p>a)<br>
+\begin{equation}<br>
+{3 \over 7} + {2 \over 7} = {3 + 2 \over 7} = {5 \over 7}<br>
+\end{equation}</p>
+<p>b)<br>
+\begin{equation}<br>
+{2 \over 5} + {1\over 5} = {2 + 1 \over 5} = {3 \over 5}<br>
+\end{equation}</p>
+<h2 id="zakljucak">Zakljucak <a class="direct-link" href="#zakljucak">#</a></h2>
+<p>\begin{equation}<br>
+\color{red}{a \over c} + {b \over c} = {a + b \over c}<br>
+\end{equation}</p>
+<p>Postavlja se pitanje sta u slucaju razlicitih imenilaca. Ova tema je obradjena u posebnoj objavi koju mozete naci <a href="/posts/sabiranje_i_oduzimanje_razlomaka_razlicit_imenilac/">ovde</a>.</p>
 
 
 <p><a href="/mitrika/">← Home</a></p>
@@ -71,6 +100,6 @@
 
     <footer></footer>
 
-    <!-- Current page: /mitrika/posts/secondpost/ -->
+    <!-- Current page: /mitrika/posts/sabiranje_i_oduzimanje_razlomaka_2/ -->
   </body>
 </html>

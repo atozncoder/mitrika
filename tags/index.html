@@ -14,6 +14,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Merriweather+Sans&display=swap" rel="stylesheet">  
 
     <link rel="stylesheet" href="/mitrika/css/index.css">
+    <link rel="stylesheet" href="/mitrika/css/matjax.css">
     <link rel="stylesheet" href="/mitrika/css/prism-base16-monokai.dark.css">
     <link rel="alternate" href="/mitrika/feed/feed.xml" type="application/atom+xml" title="Mamatatamata">
 
@@ -44,6 +45,19 @@
     }
     </script>
 
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script>
+      MathJax = {
+        tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]},
+        chtml: {
+          scale: 1.2,
+          fontURL: '/fonts/roboto.tds'
+        }
+      };
+
+    </script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+
   </head>
   <body class="center">
     <header>
@@ -60,12 +74,6 @@
 
   
   <a href="/mitrika/tags/another-tag/" class="tag">another-tag</a>
-
-  
-  <a href="/mitrika/tags/second-tag/" class="tag">second-tag</a>
-
-  
-  <a href="/mitrika/tags/number-2/" class="tag">number-2</a>
 
 
 

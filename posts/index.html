@@ -14,6 +14,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Merriweather+Sans&display=swap" rel="stylesheet">  
 
     <link rel="stylesheet" href="/mitrika/css/index.css">
+    <link rel="stylesheet" href="/mitrika/css/matjax.css">
     <link rel="stylesheet" href="/mitrika/css/prism-base16-monokai.dark.css">
     <link rel="alternate" href="/mitrika/feed/feed.xml" type="application/atom+xml" title="Mamatatamata">
 
@@ -44,6 +45,19 @@
     }
     </script>
 
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script>
+      MathJax = {
+        tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]},
+        chtml: {
+          scale: 1.2,
+          fontURL: '/fonts/roboto.tds'
+        }
+      };
+
+    </script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+
   </head>
   <body class="center">
     <header>
@@ -62,29 +76,29 @@
 <ol reversed class="postlist" style="counter-reset: start-from 5">
 
   <li class="postlist-item">
-    <a href="/mitrika/posts/fourthpost/" class="postlist-link">This is my fourth post.</a>
-    <time class="postlist-date" datetime="2018-09-30">2018</time>
+    <a href="/mitrika/posts/sabiranje_i_oduzimanje_razlomaka_razlicit_imenilac/" class="postlist-link">Sabiranje i oduzimanje razlomaka sa razlicitim imeniocima</a>
+    <time class="postlist-date" datetime="2020-06-16">2020</time>
     
-      <a href="/mitrika/tags/second-tag/" class="tag">second-tag</a>
+      <a href="/mitrika/tags/another-tag/" class="tag">another-tag</a>
   </li>
 
   <li class="postlist-item">
-    <a href="/mitrika/posts/thirdpost/" class="postlist-link">This is my third post.</a>
-    <time class="postlist-date" datetime="2018-08-24">2018</time>
+    <a href="/mitrika/posts/sabiranje_i_oduzimanje_razlomaka_3/" class="postlist-link">Sabiranje i oduzimanje razlomaka</a>
+    <time class="postlist-date" datetime="2020-06-01">2020</time>
     
-      <a href="/mitrika/tags/second-tag/" class="tag">second-tag</a>
+      <a href="/mitrika/tags/another-tag/" class="tag">another-tag</a>
   </li>
 
   <li class="postlist-item">
-    <a href="/mitrika/posts/secondpost/" class="postlist-link">This is my second post.</a>
-    <time class="postlist-date" datetime="2018-07-04">2018</time>
+    <a href="/mitrika/posts/sabiranje_i_oduzimanje_razlomaka_2/" class="postlist-link">Sabiranje i oduzimanje razlomaka</a>
+    <time class="postlist-date" datetime="2020-06-01">2020</time>
     
-      <a href="/mitrika/tags/number-2/" class="tag">number-2</a>
+      <a href="/mitrika/tags/another-tag/" class="tag">another-tag</a>
   </li>
 
   <li class="postlist-item">
-    <a href="/mitrika/posts/firstpost/" class="postlist-link">This is my first post.</a>
-    <time class="postlist-date" datetime="2018-05-01">2018</time>
+    <a href="/mitrika/posts/sabiranje_i_oduzimanje_razlomaka/" class="postlist-link">Sabiranje i oduzimanje razlomaka</a>
+    <time class="postlist-date" datetime="2020-06-01">2020</time>
     
       <a href="/mitrika/tags/another-tag/" class="tag">another-tag</a>
   </li>
