@@ -52,6 +52,13 @@
         chtml: {
           scale: 1.2,
           fontURL: '/fonts/roboto.tds'
+        },
+        startup: {
+          ready: () => {
+            console.log(MathJax);
+            MathJax.startup.defaultReady();
+            console.log('MathJax is initialized, and the initial typeset is queued');
+          }
         }
       };
 

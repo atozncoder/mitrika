@@ -52,6 +52,13 @@
         chtml: {
           scale: 1.2,
           fontURL: '/fonts/roboto.tds'
+        },
+        startup: {
+          ready: () => {
+            console.log(MathJax);
+            MathJax.startup.defaultReady();
+            console.log('MathJax is initialized, and the initial typeset is queued');
+          }
         }
       };
 
@@ -94,6 +101,10 @@
   <tr>
     <td><a href="/posts/sabiranje_i_oduzimanje_razlomaka_4/"><code>/posts/sabiranje_i_oduzimanje_razlomaka_4/</code></a></td>
     <td>Sabiranje i oduzimanje razlomaka V4</td>
+  </tr>
+  <tr>
+    <td><a href="/posts/sabiranje_i_oduzimanje_razlomaka_5/"><code>/posts/sabiranje_i_oduzimanje_razlomaka_5/</code></a></td>
+    <td>Sabiranje i oduzimanje razlomaka V5</td>
   </tr>
   <tr>
     <td><a href="/posts/sabiranje_i_oduzimanje_razlomaka_razlicit_imenilac/"><code>/posts/sabiranje_i_oduzimanje_razlomaka_razlicit_imenilac/</code></a></td>

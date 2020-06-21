@@ -52,6 +52,13 @@
         chtml: {
           scale: 1.2,
           fontURL: '/fonts/roboto.tds'
+        },
+        startup: {
+          ready: () => {
+            console.log(MathJax);
+            MathJax.startup.defaultReady();
+            console.log('MathJax is initialized, and the initial typeset is queued');
+          }
         }
       };
 
@@ -72,11 +79,18 @@
       <h1>Tagged “another-tag”</h1>
 
 
-<ol reversed class="postlist" style="counter-reset: start-from 6">
+<ol reversed class="postlist" style="counter-reset: start-from 7">
 
   <li class="postlist-item">
     <a href="/mitrika/posts/sabiranje_i_oduzimanje_razlomaka_razlicit_imenilac/" class="postlist-link">Sabiranje i oduzimanje razlomaka sa razlicitim imeniocima</a>
     <time class="postlist-date" datetime="2020-06-16">2020</time>
+    
+      <a href="/mitrika/tags/another-tag/" class="tag">another-tag</a>
+  </li>
+
+  <li class="postlist-item">
+    <a href="/mitrika/posts/sabiranje_i_oduzimanje_razlomaka_5/" class="postlist-link">Sabiranje i oduzimanje razlomaka V5</a>
+    <time class="postlist-date" datetime="2020-06-01">2020</time>
     
       <a href="/mitrika/tags/another-tag/" class="tag">another-tag</a>
   </li>
