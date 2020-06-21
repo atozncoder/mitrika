@@ -17,3 +17,14 @@ mjx-container svg text {
     margin-top: 0;
     margin-bottom: 0;
 }
+
+.color_primary {color: #FECD03;}
+
+.color_analogous {color: #FE4E03;}
+
+.color_complementary {color: #0335fe;}
+
+.txt_large_bold {
+    font-weight: bold;
+    font-size: larger;
+}

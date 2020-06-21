@@ -1,5 +1,5 @@
 ---
-title: Sabiranje i oduzimanje razlomaka V4
+title: Sabiranje i oduzimanje razlomaka V5
 description: Ovo je objava na mom blogu o matematici za osnovnu skolu.
 date: 2020-06-01
 tags:
@@ -15,20 +15,19 @@ layout: layouts/post.njk
 a) {3 \over 7} + {2 \over 7} \qquad b) {2 \over 5} + {1 \over 5}
 \end{equation}
 
-![Sabiranje razlomaka](/mitrika/img/sabiranje_i_oduzimanje_razlomaka/Objava1Z1.png)
+![Sabiranje razlomaka](/mitrika/img/sabiranje_i_oduzimanje_razlomaka/Objava1Z1_color.png)
 
 Ocigledno je
 
-
 \begin{equation}
-a) {3 \over 7} + {2 \over 7} = {3 + 2 \over 7} = {5 \over 7} \qquad b) {2 \over 5} + {1\over 5} = {2 + 1 \over 5} = {3 \over 5}
+a) \class{color_primary}{3 \over 7} + \class{color_analogous}{2 \over 7} = {\class{color_primary}3 + \class{color_analogous}2 \over 7} = {5 \over 7} \qquad b) \class{color_primary}{2 \over 5} + \class{color_analogous}{1\over 5} = {\class{color_primary}2 + \class{color_analogous}1 \over 5} = {3 \over 5}
 \end{equation}
 
 
-<span style="color:red">**Zakljucak**</span>
+<span style="color:redx">**Zakljucak**</span>
 
 \begin{equation}
-\color{red}{a \over c} + {b \over c} = {a + b \over c}
+\class{txt_large_bold}{a \over c} \class{txt_large_bold}+ \class{txt_large_bold}{b \over c} \class{txt_large_bold}= \class{txt_large_bold}{a + b \over c}
 \end{equation}
 
 ## Sabiranje razlomaka sa razlicitim imeniocima
@@ -45,7 +44,7 @@ a) {1 \over 2} + {1 \over 3} \qquad b) {5 \over 8} + {3 \over 10}
 
 a) U ovom slucaju imamo imenioce 2 i 3. Trazimo najmanji broj koji je deljiv sa 2 i sa 3. Najlakse je pomnoziti brojeve 2 i 3 i dobicemo broj 6. Broj 6 je ocigledno najmanji broj deljiv sa 2 i sa 3.
 
-![Sabiranje razlomaka](/mitrika/img/sabiranje_i_oduzimanje_razlomaka_razlicit_imenilac/Objava2Z1A@3x.png)
+![Sabiranje razlomaka](/mitrika/img/sabiranje_i_oduzimanje_razlomaka_razlicit_imenilac/Objava2Z1A_color@3x.png)
 
 Dakle:
 
@@ -73,11 +72,11 @@ a) {5 \over 9} + {1 \over 6} \qquad b) {7 \over 11} + 2 \qquad c) 2{3 \over 8} +
 a) 18 je NZS za 9 i 6. Zapisujemo NZS(9,6) = 18.
 
 \begin{equation}
-{5 \over 9} + {1 \over 6} = {5 * \color{red}2 \over 9 * \color{red}2} + {1 * \color{red}3 \over 6 * \color{red}3} = {10 \over 18} + {3 \over 18} = {13 \over 18}
+{5 \over 9} + {1 \over 6} = {5 * \class{color_primary}2 \over 9 * \class{color_primary}2} + {1 * \class{color_primary}3 \over 6 * \class{color_primary}3} = {10 \over 18} + {3 \over 18} = {13 \over 18}
 \end{equation}
 Krace:
 \begin{equation}
-{5 \over 9} + {1 \over 6} = {5 ^{\color{red}{(* 2}} \over 9} + {1 ^{\color{red}{(* 3}} \over 6} = {10 \over 18} + {3 \over 18} = {13 \over 18}
+{5 \over 9} + {1 \over 6} = {5 ^{\class{color_primary}{(* 2}} \over 9} + {1 ^{\class{color_primary}{(* 3}} \over 6} = {10 \over 18} + {3 \over 18} = {13 \over 18}
 \end{equation}
 
 
