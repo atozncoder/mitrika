@@ -49,7 +49,7 @@ a) U ovom slucaju imamo imenioce 2 i 3. Trazimo najmanji broj koji je deljiv sa 
 Dakle:
 
 \begin{equation}
-{1 \over 2} + {1 \over 3} = {3 \over 6} + {2 \over 6} = {5 \over 6}
+{1 \over 2} + {1 \over 3} = \class{color_primary}{3 \over 6} \class{color_primary}+ \class{color_primary}{2 \over 6} = {5 \over 6}
 \end{equation}
 
 b)
