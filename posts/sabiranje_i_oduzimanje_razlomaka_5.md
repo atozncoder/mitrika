@@ -52,9 +52,7 @@ Dakle:
 {1 \over 2} + {1 \over 3} = \class{color_primary}{3 \over 6} \class{color_primary}+ \class{color_primary}{2 \over 6} = {5 \over 6}
 \end{equation}
 
-b)
-
-Pitamo se kako da te razlomke prosirimo do razlomaka sa jednakim imeniocima.
+b) Pitamo se kako da te razlomke prosirimo do razlomaka sa jednakim imeniocima.
 Probamo sa brojevima koji je deljivi sa 8 i sa 10.
 To su brojevi: 40, 80, 120, 160, ...
 Najpovoljnije je izabrati najmanji. Taj broj se zove **najmanji zajednicki sadrzalac - NZS**. Objavu koja objasnjava NZS mozete naci [ovde](TBD).
