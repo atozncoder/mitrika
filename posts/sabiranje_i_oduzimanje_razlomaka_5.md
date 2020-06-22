@@ -9,7 +9,7 @@ layout: layouts/post.njk
 
 ## Sabiranje razlomaka sa istim imeniocima
 
-1) Izracunati:
+**Zad #1.** Izracunati:
 
 \begin{equation}
 a) {3 \over 7} + {2 \over 7} \qquad b) {2 \over 5} + {1 \over 5}
@@ -36,7 +36,7 @@ Znamo da se razlomak moze predstaviti na beskonacno mnogo nacina. To se moze pos
 
 Imajuci ovo u vidu, cilj nam je da razlomke sa razlicitim imeniocima prosirimo ili skratimo tako da dobijemo razlomke sa istim imeniocima koje mozemo lako da saberemo.
 
-1) Izracunati:
+**Zad. #1.** Izracunati:
 
 \begin{equation}
 a) {1 \over 2} + {1 \over 3} \qquad b) {5 \over 8} + {3 \over 10}
@@ -44,7 +44,7 @@ a) {1 \over 2} + {1 \over 3} \qquad b) {5 \over 8} + {3 \over 10}
 
 a) U ovom slucaju imamo imenioce 2 i 3. Trazimo najmanji broj koji je deljiv sa 2 i sa 3. Najlakse je pomnoziti brojeve 2 i 3 i dobicemo broj 6. Broj 6 je ocigledno najmanji broj deljiv sa 2 i sa 3.
 
-![Sabiranje razlomaka](/mitrika/img/sabiranje_i_oduzimanje_razlomaka_razlicit_imenilac/Objava2Z1A_color@3x.png)
+![Sabiranje razlomaka](/mitrika/img/sabiranje_i_oduzimanje_razlomaka/Objava2Z1A_color@3x.png)
 
 Dakle:
 
@@ -57,13 +57,13 @@ b)
 Pitamo se kako da te razlomke prosirimo do razlomaka sa jednakim imeniocima.
 Probamo sa brojevima koji je deljivi sa 8 i sa 10.
 To su brojevi: 40, 80, 120, 160, ...
-Najpovoljnije je izabrati najmanji. Taj broj se zove **najmanji zajednicki sadrzalac - NZS**. Sama tema o NZS se obrdjuje kasnije i u ovom uzrastu je dovoljno nauciti kako intuitivno pronaci ovaj broj.
+Najpovoljnije je izabrati najmanji. Taj broj se zove **najmanji zajednicki sadrzalac - NZS**. Objavu koja objasnjava NZS mozete naci [ovde](TBD).
 
 \begin{equation}
 {5 \over 8} + {3 \over 10} = {5 * 5 \over 8 * 5} + {3 * 4 \over 10 * 4} = {25 \over 40} + {12 \over 40} = {37 \over 40}
 \end{equation}
 
-2) Izracunati:
+**Zad. #2.** Izracunati:
 
 \begin{equation}
 a) {5 \over 9} + {1 \over 6} \qquad b) {7 \over 11} + 2 \qquad c) 2{3 \over 8} + 1{1 \over 5}
